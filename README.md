@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Debrecen
 * ✉️  You can contact me at [sniperfrenzy23@gmail.com](mailto:sniperfrenzy23@gmail.com)
-* 🚀  I'm currently working on [PC Remote Controll app](http://discord.gg/ZhSv4kYyTN)
+* 🚀  I'm currently working on [PC Remote Controll app]((https://discord.gg/ZhSv4KYyTN))
 
 <a href="https://www.github.com/FrenzyRL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FrenzyRL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/FrenzyRL23" target="_blank" rel="noreferrer"><img
