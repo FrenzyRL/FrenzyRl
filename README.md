@@ -11,4 +11,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@FrenzyRl_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Frenzy&show_icons=true&locale=en" alt="Frenzy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frenzy&" alt="Frenzy" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frenzy&show_icons=true&locale=en&layout=compact" alt="Frenzy" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frenzy" alt="Frenzy" /></a></p>
